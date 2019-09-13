@@ -1,0 +1,18 @@
+/* PHASE 6: Sidebar */
+
+.profile-picture {
+  display: flex; 
+  justify-content: baseline; 
+  background: url("../images/cats.jpg");
+  
+}
+
+
+.profile-info {
+
+}
+
+
+.profile-nave{
+
+}

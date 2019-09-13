@@ -1,0 +1,10 @@
+/* PHASE 5: Cats */
+
+.content-header {
+  height: 20px;
+  background-image: "/Users/aa/Desktop/W5D5/cssfriends5/images/cats.jpg";
+  text-shadow:  red;
+  font-size: 20px; 
+  line-height: 1;
+  
+}
